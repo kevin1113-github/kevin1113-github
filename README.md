@@ -109,3 +109,6 @@ kevin1113dev@gmail.com
 - 2023년도 2학년 1학기 학기우등 (4.42)
 
 ## 주요 프로젝트
+
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>
