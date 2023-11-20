@@ -9,9 +9,69 @@ Nov 13, 2000
 - Email</br>
 kevin1113dev@gmail.com
 - GitHub</br>
-https://github.com/kevin1113-github
-- 사용해봄</br>
-
+<a href="https://github.com/kevin1113-github"><img src="https://img.shields.io/badge/GitHub-kevin1113--github-181717?logo=github&logoColor=white"/></a>
+- 사용해 본 기술 스택 및 소프트웨어</br><div style="margin-left:">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-512BD4?logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-31A8FF?logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-9999FF?logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cardboard-FF7143?logo=googlecardboard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mips_Assembly-000000?logo=mipsassembly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoftoffice&logoColor=white"/>
+</div>
+<!--
+  뱃지 사용법, https://simpleicons.org/
+  <img src="https://img.shields.io/badge/[표시_할_이름]-[블록_색]?logo=[아이콘]&logoColor=white"/>
+  -->
 
 ## 수상경력 및 주요활동
 ### 2019년
