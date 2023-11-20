@@ -1,6 +1,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevin1113-github&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>
 
+
 ## 소개
 - 이름</br>
 황승원 (SeungWon Hwang)
@@ -73,7 +74,7 @@ kevin1113dev@gmail.com
 <!--
   뱃지 사용법, https://simpleicons.org/
   <img src="https://img.shields.io/badge/[표시_할_이름]-[블록_색]?logo=[아이콘]&logoColor=white"/>
-  -->
+-->
 
 ## 수상경력 및 주요활동
 ### 2019년
@@ -112,3 +113,7 @@ kevin1113dev@gmail.com
 
 ## 주요 프로젝트
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin1113-github&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin1113-github&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
