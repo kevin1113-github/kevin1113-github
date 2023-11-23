@@ -4,7 +4,7 @@
 <!-- https://github.com/mazassumnida/mazandi -->
 [![Solved.ac
 kevin1113dev](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin1113dev)](https://solved.ac/kevin1113dev)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kevin1113dev)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kevin1113dev&theme=warm)
 
 ## 소개
 - 이름</br>
