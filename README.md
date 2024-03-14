@@ -1,10 +1,5 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevin1113-github&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>
-<!-- https://github.com/mazassumnida/mazassumnida -->
-<!-- https://github.com/mazassumnida/mazandi -->
-[![Solved.ac
-kevin1113dev](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin1113dev)](https://solved.ac/kevin1113dev)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kevin1113dev&theme=warm)
 
 ## 소개
 - 이름</br>
@@ -122,3 +117,10 @@ kevin1113dev@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin1113-github&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin1113-github&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- https://github.com/mazassumnida/mazassumnida -->
+<!-- https://github.com/mazassumnida/mazandi -->
+[![Solved.ac
+kevin1113dev](http://mazassumnida.wtf/api/v2/generate_badge?boj=kevin1113dev)](https://solved.ac/kevin1113dev)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kevin1113dev&theme=warm)
+
