@@ -12,7 +12,9 @@ Nov 13, 2000
 kevin1113dev@gmail.com
 - GitHub</br>
 <a href="https://github.com/kevin1113-github"><img src="https://img.shields.io/badge/GitHub-kevin1113--github-181717?logo=github&logoColor=white"/></a>
-- 사용해 본 기술 스택 및 소프트웨어</br><div style="margin-left:">
+<!-- 
+- 사용해 본 기술 스택 및 소프트웨어</br>
+<div style="margin-left:">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Csharp-512BD4?logo=csharp&logoColor=white"/>
@@ -70,6 +72,8 @@ kevin1113dev@gmail.com
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoftoffice&logoColor=white"/>
 </div>
+-->
+
 <!--
   뱃지 사용법, https://simpleicons.org/
   <img src="https://img.shields.io/badge/[표시_할_이름]-[블록_색]?logo=[아이콘]&logoColor=white"/>
