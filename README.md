@@ -124,6 +124,8 @@ kevin1113dev@gmail.com
 - `Duckling` 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼 (2024년 2분기 개발중)
 - `서비스명 미정` 디스코드 음악 재생 챗봇 서비스 (2024년 3분기 개발 예정)
 
+* * *
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin1113-github&theme=dark&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 </br>
