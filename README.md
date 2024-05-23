@@ -122,9 +122,9 @@ kevin1113dev@gmail.com
 
 
 ## 주요 프로젝트
-- `주희봇` 디스코드 TTS (Text to Speech) 챗봇 서비스
-- `Duckling` 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼 (2024년 2분기 개발중)
-- `아율봇 (가칭)` 디스코드 음악 재생 챗봇 서비스 (2024년 3분기 개발 예정)
+- [`주희봇`](https://github.com/kevin1113-github/juhee-bot) 디스코드 TTS (Text to Speech) 챗봇 서비스
+- [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼 (2024년 2분기 개발중)
+- [`아율봇 (가칭)`](https://github.com/kevin1113-github/auyul-bot) 디스코드 음악 재생 챗봇 서비스 (2024년 3분기 개발 예정)
 
 * * *
 
