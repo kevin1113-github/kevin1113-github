@@ -16,7 +16,7 @@ kevin1113dev@gmail.com
 - GitHub</br>
 <a href="https://github.com/kevin1113-github"><img src="https://img.shields.io/badge/GitHub-kevin1113--github-181717?logo=github&logoColor=white"/></a>
 
-## 주요 기술 스택 및 소프트웨어 (I've been tried these things)
+## 주요 기술 스택 및 소프트웨어 (I'm proficient in the following technology stacks)
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
