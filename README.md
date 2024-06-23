@@ -15,6 +15,18 @@ Nov 13, 2000
 kevin1113dev@gmail.com
 - GitHub</br>
 <a href="https://github.com/kevin1113-github"><img src="https://img.shields.io/badge/GitHub-kevin1113--github-181717?logo=github&logoColor=white"/></a>
+
+## 주요 기술 스택 및 소프트웨어 (I've been tried these things)
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+
+
 <details>
   <summary><h2>사용해 본 기술 스택 및 소프트웨어</br>(I've been tried these things)</h2></summary>
   <div style="margin-left:">
@@ -24,6 +36,7 @@ kevin1113dev@gmail.com
     <img src="https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -75,6 +88,15 @@ kevin1113dev@gmail.com
     <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoftoffice&logoColor=white"/>
   </div>
+<!--   <summary><h2>주요 기술 스택 및 소프트웨어</br>(I've been tried these things)</h2></summary>
+  <div style="margin-left:">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+  </div> -->
 </details>
 
 <!--
@@ -118,6 +140,11 @@ kevin1113dev@gmail.com
 - 2023년도 교내 SW Week Coding Festival 대회 수상 (은상)
 - 2023년도 3학년 1학기 학기우등 (4.06)
 - 2023년도 3학년 2학기 학기우등 (4.25)
+
+### 2024년
+- 2024년도 1학기, 동계, 하계 SW 근로 장학생 선발
+- 2024년도 캡스톤디자인 경진대회 지원
+- 2024년도 4학년 1학기
 </details>
 
 
