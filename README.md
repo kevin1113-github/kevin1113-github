@@ -1,9 +1,6 @@
 # Kevin의 깃허브에 오신것을 환영합니다! 🤗
 ###### Welcome to my github page!
 
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevin1113-github&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false"/></a>
-
 ## 소개 (Introduce)
 - 이름 (Name)</br>
 황승원 (SeungWon Hwang)
