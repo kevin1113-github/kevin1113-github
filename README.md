@@ -141,14 +141,20 @@ kevin1113dev@gmail.com
 ### 2024년
 - 2024년도 1학기, 동계, 하계 SW 근로 장학생 선발
 - 2024년도 캡스톤디자인 경진대회 지원
-- 2024년도 4학년 1학기
+- 2024년도 교내 SW Week Coding Festival 대회 수상 (동상)
+- 2024년도 4학년 1학기 학기우등 (4.32)
+- 2024년도 4학년 2학기 (4.25)
+
+### 2025년
+- 2025년도 1학기 초과학기 (4.50)
+- 2025년도 하계 한림대학교 빅데이터 전공 학부 졸업
 </details>
 
 
 ## 주요 프로젝트
-- [`주희봇`](https://github.com/kevin1113-github/juhee-bot) 디스코드 TTS (Text to Speech) 챗봇 서비스
-- [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼 (2024년 2분기 개발중)
-- [`아율봇 (가칭)`](https://github.com/kevin1113-github/auyul-bot) 디스코드 음악 재생 챗봇 서비스 (2024년 3분기 개발 예정)
+- [`주희봇`](https://github.com/kevin1113-github/juhee-bot) 디스코드 TTS (Text to Speech) 챗봇 서비스 (서비스 중)
+- [`아율봇 (가칭)`](https://github.com/kevin1113-github/auyul-bot) 디스코드 음악 재생 챗봇 서비스 (2025년 1분기 개발 중단)
+- [`Duckling`](https://github.com/high-profit-guaranteed) 2024년 1학기 캡스톤디자인 팀 고수익보장: 주식거래 플랫폼 (2024년 2분기 개발 중단)
 
 * * *
 
