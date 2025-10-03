@@ -3,15 +3,16 @@
 
 ## 소개 (Introduce)
 - 이름 (Name)</br>
-황승원 (SeungWon Hwang)
+  - 황승원 (SeungWon Hwang)
 - 생년월일 (Birth Date)</br>
-Nov 13, 2000
+  - Nov 13, 2000
 - 소속 (I belong here to study CS)</br>
-한림대학교 정보과학대학 빅데이터 전공, 컨텐츠IT 전공 (복수 전공)
+  - 한림대학교 정보과학대학 빅데이터 전공, 컨텐츠IT 전공 (복수 전공)
+  - 2025년 8월 졸업
 - Email</br>
-kevin1113dev@gmail.com
+  - kevin1113dev@gmail.com
 - GitHub</br>
-<a href="https://github.com/kevin1113-github"><img src="https://img.shields.io/badge/GitHub-kevin1113--github-181717?logo=github&logoColor=white"/></a>
+  - <a href="https://github.com/kevin1113-github"><img src="https://img.shields.io/badge/GitHub-kevin1113--github-181717?logo=github&logoColor=white"/></a>
 
 ## 주요 기술 스택 및 소프트웨어 (I'm proficient in the following technology stacks)
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
